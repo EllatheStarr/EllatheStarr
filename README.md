@@ -1,3 +1,6 @@
+## 🏆 GitHub Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ellathestarr&theme=algolia)
+
 # 🌟 Hi there, I'm Emmanuella Uwudia! 👋  
 
 **Location:** Accra, Ghana  
