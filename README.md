@@ -4,7 +4,7 @@
 # 🌟 Hi there, I'm Emmanuella Uwudia! 👋  
 
 **Location:** Accra, Ghana  
-**Languages:** English (Fluent), French (Beginner), Yoruba (Conversational)  
+**Languages:** English (Fluent), French (Conversational), Yoruba (Conversational)  
 **LinkedIn:** [Emmanuella Uwudia](https://www.linkedin.com/in/emmanuella-uwudia)  
 **GitHub:** [EllatheStarr](https://github.com/EllatheStarr)
 
@@ -49,11 +49,11 @@ I'm a passionate computer science student, a cybersecurity enthusiast, a web dev
 
 ## 🌱 Interests  
 
+- Web Development
 - Game Development  
 - Machine Learning  
 - Artificial Intelligence  
-- Cybersecurity  
-- Fashion Design  
+- Cybersecurity    
 - Architecture  
 
 ---
