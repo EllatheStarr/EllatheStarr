@@ -42,8 +42,8 @@ I'm a passionate computer science student, a cybersecurity enthusiast, a web dev
 ## 🏆 Achievements  
 
 - **Cyber 9/12 Strategy Challenge (2024):** 2nd Place & Most Creative Policy Document Award  
-- **GHIE Innovation in Applied Science and Technology Award (2024):** Young Innovators Category  
-- **Acity Tech Expo (2022):** 2nd Runner-up  
+- **Ghana Institution of Engineering (GHIE) Innovation in Applied Science and Technology Award (2024):** Young Innovators Category  
+- **Academic City University (Acity) Tech Expo (2022):** 2nd Runner-up  
 
 ---
 
