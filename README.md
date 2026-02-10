@@ -12,7 +12,7 @@
 
 ## 🚀 About Me  
 
-I'm a passionate computer science student, a cybersecurity enthusiast, and a game developer with a flair for innovative solutions. With experience spanning software engineering, cybersecurity, and game development, I thrive on solving challenges through creativity and collaboration.  
+I'm a passionate computer science student, a cybersecurity enthusiast, a web developer with a flair for innovative solutions. With experience spanning software engineering, cybersecurity, and web development, I thrive on solving challenges through creativity and collaboration.  
 
 
 ## 🛠 Skills  
