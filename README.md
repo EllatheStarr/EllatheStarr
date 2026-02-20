@@ -150,7 +150,6 @@ I'm a passionate computer science student, a cybersecurity enthusiast, a web dev
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6C63FF,100:0B0F19&height=120&section=footer"/>
 </p>
-```
 
 ---
 
