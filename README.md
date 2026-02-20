@@ -1,89 +1,156 @@
+
+<!-- ======================= HEADER ======================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Emmanuella+Uwudia!;Computer+Science+Student;Cybersecurity+Enthusiast;Web+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:6C63FF,100:00E5FF&height=120&section=header&text=Emmanuella%20Uwudia&fontSize=40&fontColor=E6E6E6&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Accra%2C%20Ghana-0B0F19?style=for-the-badge&logo=googlemaps&logoColor=00E5FF&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/Languages-English%20%7C%20French%20%7C%20Yoruba-0B0F19?style=for-the-badge&labelColor=111827&color=6C63FF"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/emmanuella-uwudia">
+    <img src="https://img.shields.io/badge/LinkedIn-Emmanuella%20Uwudia-0A66C2?style=flat&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/EllatheStarr">
+    <img src="https://img.shields.io/badge/GitHub-EllatheStarr-181717?style=flat&logo=github"/>
+  </a>
+  <a href="mailto:ellauwudia20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ellauwudia20%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🏆 GitHub Trophy
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ellathestarr&theme=algolia)
 
-# 🌟 Hi there, I'm Emmanuella Uwudia! 👋  
+---
 
-**Location:** Accra, Ghana  
-**Languages:** English (Fluent), French (Conversational), Yoruba (Conversational)  
-**LinkedIn:** [Emmanuella Uwudia](https://www.linkedin.com/in/emmanuella-uwudia)  
-**GitHub:** [EllatheStarr](https://github.com/EllatheStarr)
+# 👩🏽‍💻 About Me
+
+```text
+> booting profile...
+> student: computer science
+> interests: cybersecurity • web development • AI
+> status: building, learning, securing 🚀
+````
+
+I'm a passionate computer science student, a cybersecurity enthusiast, a web developer with a flair for innovative solutions. With experience spanning software engineering, cybersecurity, and web development, I thrive on solving challenges through creativity and collaboration.
 
 ---
 
-## 🚀 About Me  
+# 🧠 Skills
 
-I'm a passionate computer science student, a cybersecurity enthusiast, a web developer with a flair for innovative solutions. With experience spanning software engineering, cybersecurity, and web development, I thrive on solving challenges through creativity and collaboration.  
+## 💻 Programming Languages
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,matlab,html,css&theme=dark" />
+</p>
 
-## 🛠 Skills  
+## 🧰 Tools & Technologies
 
-### **Programming Languages**  
-| Python | C | C++ | C# | Java | MATLAB | HTML/CSS |  
-|--------|---|-----|----|------|--------|-----------|  
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/> |  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,blender,postgres,figma&theme=dark" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-0B0F19?style=for-the-badge&logo=wireshark&logoColor=00E5FF&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/Netmiko-Automation-0B0F19?style=for-the-badge&logo=python&logoColor=6C63FF&labelColor=111827"/>
+  <img src="https://img.shields.io/badge/Oracle-Database-0B0F19?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=111827"/>
+</p>
 
+## 🤝 Soft Skills
 
-
-### **Tools and Technologies**  
-| Unity | Blender | PostgreSQL | Figma | Wireshark | Netmiko | Oracle |  
-|-------|---------|------------|-------|-----------|----------|--------|  
-| <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/wireshark/wireshark-original.svg" title="Wireshark" alt="Wireshark" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Netmiko" alt="Netmiko" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="50" height="50"/> |  
-
-
-### **Soft Skills**  
-- Public Speaking  
-- Written Communication  
-- Time Management  
-- Team Leadership  
-
----
-
-## 🏆 Achievements  
-
-- **Cyber 9/12 Strategy Challenge (2024):** 2nd Place & Most Creative Policy Document Award  
-- **Ghana Institution of Engineering (GHIE) Innovation in Applied Science and Technology Award (2024):** Young Innovators Category  
-- **Academic City University (Acity) Tech Expo (2022):** 2nd Runner-up  
+* Public Speaking
+* Written Communication
+* Time Management
+* Team Leadership
 
 ---
 
-## 🌱 Interests  
+# 🏅 Achievements
 
-- Web Development
-- Game Development  
-- Machine Learning  
-- Artificial Intelligence  
-- Cybersecurity    
-- Architecture  
+🏆 **Cyber 9/12 Strategy Challenge (2024)**
+→ 2nd Place & Most Creative Policy Document Award
 
----
+🏆 **Ghana Institution of Engineering (GHIE) Innovation in Applied Science and Technology Award (2024)**
+→ Young Innovators Category
 
-## 🔥 Featured Projects  
-
-### **BEE**  
-**Description:** A supply chain management system with secure authentication, email verification, and order processing capabilities.  
-**Tech Stack:** Java Swing, PostgreSQL, PBKDF2, HMAC SHA-512  
-
-### **Smart NELDI**  
-**Description:** A home automation system integrating smartphone controls and motion sensors, recognized for engineering excellence.  
-
-### **CropGuy**  
-**Description:** A crop disease detection and marketplace app built collaboratively in a 4-person team.  
+🏆 **Academic City University (Acity) Tech Expo (2022)**
+→ 2nd Runner-up
 
 ---
 
-## 📈 GitHub Stats  
+# 🔬 Interests
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=EllatheStarr&theme=transparent" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllatheStarr&layout=compact&theme=transparent" height="180em" />
-</div>  
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-0B0F19?style=for-the-badge&labelColor=111827&color=00E5FF"/>
+  <img src="https://img.shields.io/badge/Game%20Development-0B0F19?style=for-the-badge&labelColor=111827&color=6C63FF"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0B0F19?style=for-the-badge&labelColor=111827&color=00E5FF"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0B0F19?style=for-the-badge&labelColor=111827&color=6C63FF"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-0B0F19?style=for-the-badge&labelColor=111827&color=00E5FF"/>
+  <img src="https://img.shields.io/badge/Architecture-0B0F19?style=for-the-badge&labelColor=111827&color=6C63FF"/>
+</p>
 
 ---
 
-## 📫 Get in Touch  
+# 🚀 Featured Projects
 
-- **Email:** [ellauwudia20@gmail.com](mailto:ellauwudia20@gmail.com)  
-- **LinkedIn:** [Emmanuella Uwudia](https://www.linkedin.com/in/emmanuella-uwudia)  
-- **GitHub:** [EllatheStarr](https://github.com/EllatheStarr)  
+## 🐝 BEE
+
+**Description:** A supply chain management system with secure authentication, email verification, and order processing capabilities.
+**Tech Stack:** `Java Swing` • `PostgreSQL` • `PBKDF2` • `HMAC SHA-512`
+
+---
+
+## 🏠 Smart NELDI
+
+**Description:** A home automation system integrating smartphone controls and motion sensors, recognized for engineering excellence.
+
+---
+
+## 🌾 CropGuy
+
+**Description:** A crop disease detection and marketplace app built collaboratively in a 4-person team.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EllatheStarr&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllatheStarr&layout=compact&theme=transparent" height="170"/>
+</p>
+
+---
+
+# 📡 Contact
+
+<p align="center">
+  <a href="mailto:ellauwudia20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/emmanuella-uwudia">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/EllatheStarr">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6C63FF,100:0B0F19&height=120&section=footer"/>
+</p>
+```
+
+---
 
